@@ -1,0 +1,11 @@
+// Copyright (c) Microsoft Corporation and Contributors.
+// Licensed under the MIT License.
+
+namespace TestComponent
+{
+    [default_interface]
+    runtimeclass TestControl : Microsoft.UI.Xaml.Controls.UserControl
+    {
+        TestControl();
+    }
+}
